@@ -23,7 +23,9 @@ function App() {
   ]);
 
   return (
-    <div className='app'>Olá React!</div>
+    <div className='app'>
+      <h1>Lista de Tarefas</h1>
+    </div>
   )
 }
 
